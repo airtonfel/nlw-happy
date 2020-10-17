@@ -13,7 +13,7 @@ Este projeto foi desenvolvido no  Next Level Week - NLW3 da [Rocketseat](https:/
 
 ## Screenshot
 ### `Home (/)`
-![Home](https://github.com/airtonfel/nlw-happy/blob/master/screenshots/Screenshot_HomePage_Happy.png?raw=true)
+![Home](https://github.com/airtonfel/nlw-happy/blob/master/Screenshot_HomePage_Happy.png?raw=true)
 
 ### `Map (/app)`
 ![Mapa](https://github.com/airtonfel/nlw-happy/blob/master/screenshots/Screenshot_AppPage_Happy.png?raw=true)
