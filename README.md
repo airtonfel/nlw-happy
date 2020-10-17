@@ -13,13 +13,13 @@ Este projeto foi desenvolvido no  Next Level Week - NLW3 da [Rocketseat](https:/
 
 ## Screenshot
 ### `Home (/)`
-![Home](https://github.com/airtonfel/nlw-happy/blob/master/Screenshot_HomePage_Happy.png?raw=true)
+![Home](../master/screenshots/Screenshot_Home_Happy.png)
 
 ### `Map (/app)`
-![Mapa](https://github.com/airtonfel/nlw-happy/blob/master/screenshots/Screenshot_AppPage_Happy.png?raw=true)
+![Mapa](../master/screenshots/Screenshot_AppPage_Happy.png)
 
 ### `Create (/orphanages/create)`
-![Mapa](https://github.com/airtonfel/nlw-happy/blob/master/screenshots/Screenshot_OrphanagesCreate_Happy.png?raw=true)
+![Create](../master/screenshots/Screenshot_OrphanagesCreate.png)
 
 
 
