@@ -13,13 +13,12 @@ Este projeto foi desenvolvido no  Next Level Week - NLW3 da [Rocketseat](https:/
 
 ## Screenshot
 ### `Home (/)`
-![Home](screenshots/Screenshot_Home_Happy.png)
+![Home](/web/screenshots/Screenshot_HomePage_Happy.png)
 
 ### `Map (/app)`
-![Mapa](../master/screenshots/Screenshot_AppPage_Happy.png)
+![Mapa](/web/screenshots/Screenshot_AppPage_Happy.png)
 
-### `Create (/orphanages/create)`
-![Create](../master/screenshots/Screenshot_OrphanagesCreate.png)
+
 
 
 
